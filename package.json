@@ -20,7 +20,7 @@
     "@cypress/code-coverage": "^3.12.1",
     "@faststore/cli": "^3.0.88",
     "@faststore/core": "^3.0.88",
-    "@faststore/sdk": "^3.0.88",
+    "@faststore/sdk": "^3.0.109",
     "@faststore/ui": "^3.0.88",
     "@faststore/api": "^3.0.88",
     "@faststore/lighthouse": "^3.0.7",
